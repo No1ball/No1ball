@@ -9,8 +9,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="40" height="40" />
 </div>
 <h4> 👨‍💻 3rd year student of Computer Science and Computer engineering attending the St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova </h4>
-<h4> I’m currently working on: </h4
-
+<h4> 🔭 I’m currently working on: </h4
+<br/>
 <h3>Frontend projects:</h3>
   <a href="https://github.com/No1ball/converterTask"> Currency converter</a>
   <br/>
