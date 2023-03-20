@@ -30,7 +30,7 @@
    <a href="https://github.com/No1ball/SpringCoursWork"> Software for a chain store manager </a>
    <a href="https://github.com/No1ball/algebra-clqm"> colloquium on discrete mathematics </a>
  
- 
+  <h3>How to reach me: <a href="https://t.me/No1ball"> Telegram</a></h3>
 <!--
 **No1ball/No1ball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
