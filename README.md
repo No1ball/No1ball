@@ -17,16 +17,15 @@
   <br/>
  
   <h3>Backend projects:</h3>
+    <h4>Golang:</h4>
+      <a href="https://github.com/No1ball/todoApp"> Todo app api</a>
+      <br/>
+      <a href="https://github.com/No1ball/testTask"> Avito task</a>
  
-    Golang:
-    <a href="https://github.com/No1ball/todoApp"> Todo app api</a>
- 
-    <a href="https://github.com/No1ball/testTask"> Avito task</a>
- 
-  <h3>Java spring:</h3>
+  <h4>Java spring:</h4>
     <a href="https://github.com/No1ball/SpringCoursWork"> Software for a chain store manager </a>
  
-  <h3>Educational works:</h3>
+  <h4>Educational works:</h4>
    <a href="https://github.com/No1ball/OOP-Labs"> OOP lab`s</a>
  
    <a href="https://github.com/No1ball/SpringCoursWork"> Software for a chain store manager </a>
