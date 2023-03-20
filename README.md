@@ -11,7 +11,7 @@
 <h4> 👨‍💻 3rd year student of Computer Science and Computer engineering attending the St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova </h4>
 <h4> I’m currently working on </h4
 
- <h2>Projects</h2>
+
   <h3>Frontend projects:</h3>
   <a href="https://github.com/No1ball/converterTask"> Currency converter</a>
   <br/>
@@ -29,7 +29,6 @@
    <a href="https://github.com/No1ball/OOP-Labs"> OOP lab`s</a>
  
    <a href="https://github.com/No1ball/SpringCoursWork"> Software for a chain store manager </a>
- 
    <a href="https://github.com/No1ball/algebra-clqm"> colloquium on discrete mathematics </a>
  
  
