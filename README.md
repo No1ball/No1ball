@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there, I'm Alexey.</h1>
 
-<h2 align="center"> Computer science student, frontend developer. </h2>
+<h2 align="center"> Computer science student, frontend developer.
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</h2>
 
 
 
