@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Alexey.</h1>
+
+<h2 align="center"> Computer science student, frontend developer. </h2>
+
+
 
 <!--
 **No1ball/No1ball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
