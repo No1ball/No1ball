@@ -24,7 +24,7 @@
   <h4>Java spring:</h4>
     <a href="https://github.com/No1ball/SpringCoursWork"> Software for a chain store manager </a>
  
-  <h4>Educational works:</h4>
+<h3>Educational works:</h3>
    <a href="https://github.com/No1ball/OOP-Labs"> OOP lab`s</a>
  
    <a href="https://github.com/No1ball/SpringCoursWork"> Software for a chain store manager </a>
