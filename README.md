@@ -21,7 +21,7 @@ height="40" />
   <h3>Typescript:</h3>
     <a href="https://github.com/No1ball/google_books"> Google Book</a>
  <br/>
-<h3>Backend projects:</h3>
+<h2>Backend projects:</h2>
     <h4>Golang:</h4>
       <a href="https://github.com/No1ball/todoApp"> Todo app api</a>
       <br/>
