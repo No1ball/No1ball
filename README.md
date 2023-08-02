@@ -11,7 +11,7 @@ height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="40" height="40" />
 
 </div>
-<h4> 👨‍💻 3rd year student of Computer Science and Computer engineering attending the St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova </h4>
+<h4> 👨‍💻 4rd year student of Computer Science and Computer engineering attending the St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova </h4>
 <h4> 🔭 I’m currently working on: <a href="https://github.com/No1ball/notes">Notes</a> </h4
 <br/>
 <h2>Frontend projects:</h2>
